@@ -1,4 +1,5 @@
 module.exports = {
+    darkMode: 'selector',
     content: ['./frontend/**/*.{js,ts,jsx,tsx}'],
     theme: {
         extend: {
